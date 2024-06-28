@@ -1,5 +1,6 @@
 # SlashMark_Task1
-Text Encryption Using Cryptographic Algorithms
+Text Encryption Using Cryptographic Algorithms.
+
 This project focuses on encrypting images to protect sensitive information. Image encryption ensures that only authorized users can access the image data, providing a layer of security against unauthorized access.
 
 # Features
